@@ -2,3 +2,6 @@
 
 ## Overview
 A simple CSharp stopwatch that can be paused and reset. 
+
+## Why ? 
+I made this for a friend to learn C#
